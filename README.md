@@ -2,7 +2,7 @@
 <div align="center">Enjoying JavaScript and Typescript World</div>
   
 
-<div>- 🔭 I’m currently working on GraphQL <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="GraphQL" height="10" /></a> </div>
+<div>- 🔭 I’m currently working on GraphQL <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="GraphQL" height="20" /></a> </div>
   
 
 - 🌱 I’m currently learning React and AWS  
