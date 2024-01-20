@@ -2,6 +2,10 @@
 <div align="center">Enjoying JavaScript and Typescript World</div>
   
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohit+Pardhi!;" />
+</h1>
+
 <div>
 - 🔭 I’m currently working on GraphQL <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="GraphQL" height="20" />
   
