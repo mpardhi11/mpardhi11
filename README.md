@@ -3,7 +3,7 @@
   
 
 <div>
-- 🔭 I’m currently working on GraphQL <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="GraphQL" height="20" /></a> </div>
+- 🔭 I’m currently working on GraphQL <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="GraphQL" height="20" /></a> 
   
 
 - 🌱 I’m currently learning React and AWS  
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me mpardhi11@gmail.com  
   
-
+</div>
 <br/>  
 
 
